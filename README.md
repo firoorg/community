@@ -15,6 +15,6 @@ We look forward to seeing you there!
 
 ## Discuss
 - Join our [Telegram](https://t.me/firoorg) and follow our [Firo News Telegram channel](https://t.me/fironews)
-- Communicate with us using [Discord](https://discordapp.com/invite/4FjnQ2q)
+- Communicate with us using [Discord](https://discord.com/invite/TGZPRbRT3Y)
 - Discuss with us on the [Firo Forum](https://forum.firo.org/)
 - New to Firo? take a look at our [Guide](https://firo.org/guide/)
